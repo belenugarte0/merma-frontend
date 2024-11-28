@@ -1,0 +1,9 @@
+//EJECUTAR POR PRIMERA VEZ
+npm i
+npm run dev
+
+//ACTUALIZAR CAMBIOS GIT HUB
+git pull origin main
+
+//Quitar git
+Remove-Item -Recurse -Force .git
